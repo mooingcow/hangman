@@ -1,0 +1,6 @@
+bigbear|22
+cow|10
+box|8
+apple|6
+mooingcow|4
+moomoo|4
